@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Data engineer, Business Intelligence, Data Science, Python, Matlab and Some C, Always learning, Always coding....
+Data engineer, Business Intelligence, Python, Matlab and Some C, Always learning, Always coding....
 
 <!--
 **mariobarbosa777/mariobarbosa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
